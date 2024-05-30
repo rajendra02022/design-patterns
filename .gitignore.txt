@@ -1,35 +1,57 @@
 # IntelliJ IDEA
 .idea/
+**/.idea/
 
 # Compiled class files
 *.class
+**.class
 
 # Log files
 *.log
+**.log
 
 # Bytecode
 *.jar
 *.war
 *.ear
 
+**.jar
+**.war
+**.ear
+
 # Maven
 target/
 
+**/target/
+
 # Gradle
 build/
+**/build/
 
 # IntelliJ IDEA project files
 *.iml
 *.ipr
 *.iws
 
+**.iml
+**.ipr
+**.iws
+
 # Eclipse project files
 .classpath
 .project
 .settings/
 
+
+**.classpath
+**.project
+**.settings/
+
 # Mac specific files
 .DS_Store
+**.DS_Store
 
 # Windows specific files
 Thumbs.db
+
+**/Thumbs.db
